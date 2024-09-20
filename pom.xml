@@ -12,6 +12,7 @@
     <artifactId>Jenkins-Demo-Project</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Jenkins-Demo-Project</name>
+    <packaging>war</packaging>
     <description>Jenkins-Demo-Project</description>
     <url/>
     <licenses>
